@@ -1,0 +1,15 @@
+{
+    "name": "CSS Destroyer Extension",
+    "version": "1.0",
+    "description": "This project was made for SHT4_2020, following respected P'Thai footsteps to be a proud CSS destroyer",
+    "manifest_version": 2,
+    "browser_action": {
+      "default_icon": "icon.png",
+      "default_title": "CSS Destoyer Chrome Extension",
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab","<all_urls>"],
+      "background": {
+          "scripts": ["background.js"]
+      }
+  }
