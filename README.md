@@ -16,3 +16,8 @@ THe limitation being you have to stay on that page until it finishes loading
 
 
 ## Installation
+- Download .zip file
+- extract files. Seperate 'forever' folder out from the extracted folder
+- Go to Chrome extension manager
+- Turn on Developer Mode
+- Click 'Load Unpacked' select the extracted folder and/or the forever folder
